@@ -78,10 +78,10 @@ The project includes:
 You can place project screenshots inside the `images/` folder and reference them here.
 
 ### Sample Prediction
-![Sample Prediction](images/sample_prediction.png)
+![Sample Prediction](sample_prediction.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Training Curves
 ![Training Curves](images/training_curves.png)
